@@ -1,4 +1,9 @@
 Reason for this build: Add TTL into pylru
 
 pre-requirement:
-pip install pylru 
+pip install pylru
+
+
+to build: python setup.py build
+
+to install: python setup.py install

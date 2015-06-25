@@ -17,7 +17,7 @@ setup(
     license = "xxmajia",
     keywords = "lru ttl",
     url = "https://github.com/manyan/leetcode/pythonlrucache",
-    packages=['lru'],
+    packages=['lru', 'tests', 'examples'],
     long_description=read('README'),
     classifiers=[
         "Development Status :: BETA",
